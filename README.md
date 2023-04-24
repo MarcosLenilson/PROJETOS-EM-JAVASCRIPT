@@ -7,3 +7,4 @@
 <h2>LISTA DE PROJETOS</h2>
 
 1. Color Flipper 
+2. Counter
