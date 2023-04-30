@@ -1,6 +1,6 @@
-# Vanilla JS Projects
+# Projetos em Javascript
 
-> Repositório exclusivo para projetos em #javascript. Todas as ideias foi tirada da pagina https://github.com/john-smilga/javascript-basic-projects . 
+> Repositório exclusivo para projetos em #javascript. Todas as ideias foi tirada da pagina https://github.com/john-smilga/javascript-basic-projects. 
 
 ---
 
